@@ -1,7 +1,7 @@
 {
     "routes": [
       {
-        "route": "/sitestatic",
+        "route": "/",
         "rewrite": "www.uol.com.br",
         "statusCode": 200
       }
